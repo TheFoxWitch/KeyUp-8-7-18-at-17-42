@@ -1,0 +1,32 @@
+<wpml-config>
+    <taxonomies>
+        <taxonomy translate="1">portfolio_category</taxonomy>
+        <taxonomy translate="1">portfolio_tag</taxonomy>
+        <taxonomy translate="1">staff_group</taxonomy>
+        <taxonomy translate="1">staff_tag</taxonomy>
+        <taxonomy translate="1">groups</taxonomy>
+        <taxonomy translate="1">career_category</taxonomy>
+    </taxonomies>
+    <admin-texts>
+      <key name="cesis_data">
+        <key name="cesis_top_bar_phone" />
+        <key name="cesis_top_bar_email" />
+			  <key name="cesis_top_bar_text" />
+			  <key name="cesis_header_a_btn_text" />
+			  <key name="cesis_header_a_btn_link" />
+			  <key name="cesis_footer_text_one" />
+			  <key name="cesis_footer_text_two" />
+			  <key name="cesis_footer_text_three" />
+			  <key name="cesis_page_breadcrumbs_front" />
+			  <key name="cesis_post_breadcrumbs_front" />
+			  <key name="cesis_portfolio_breadcrumbs_front" />
+			  <key name="cesis_staff_breadcrumbs_front" />
+			  <key name="cesis_career_breadcrumbs_front" />
+			  <key name="cesis_shop_breadcrumbs_front" />
+			  <key name="cesis_buddypress_breadcrumbs_front" />
+			  <key name="cesis_bbpress_breadcrumbs_front" />
+			  <key name="cesis_404_text" />
+			  <key name="cesis_404_subtext" />		
+      </key>
+    </admin-texts>
+</wpml-config>

@@ -1,0 +1,9 @@
+<p>[text* your-name placeholder "Name"] </p>
+
+<p>[email* your-email placeholder "Email"] </p>
+
+<p>[text* your-subject placeholder "Subject"] </p>
+
+<p>[textarea your-message placeholder "Message"] </p>
+
+<p>[submit "Send"]</p>

@@ -1,0 +1,17 @@
+<div class="left_field">
+<p>NAME *<br />
+    [text* your-name] </p>
+<p>PHONE *<br />
+    [text* your-phone] </p>
+</div>
+<div class="right_field">
+<p>EMAIL *<br />
+    [email* your-email] </p>
+<p>SUBJECT<br />
+    [text your-subject] </p>
+</div>
+<div class="message_field">
+<p>HOW CAN I HELP?<br />
+    [textarea your-message] </p>
+<p>[submit "Send Message"]</p>
+</div>

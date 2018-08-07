@@ -1,0 +1,12 @@
+<div class="left_field">
+<p>[text* your-name placeholder "Name"] </p>
+
+<p>[email* your-email placeholder "Email"] </p>
+
+<p>[text* your-subject placeholder "Subject"] </p>
+</div>
+<div class="right_field">
+<p>[textarea your-message placeholder "Message"] </p>
+
+<p>[submit "Send"]</p>
+</div>
